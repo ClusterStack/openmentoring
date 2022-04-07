@@ -1,4 +1,4 @@
-# openmentoring
+# OPENMENTORING
 
 ![cover_social](https://user-images.githubusercontent.com/11979969/162140913-4553c604-1f81-4795-8597-f811766c8791.png)
 
