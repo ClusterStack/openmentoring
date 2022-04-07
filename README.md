@@ -11,3 +11,19 @@ After that, the mentee needs to work, read and reflect on ideas and advice, that
 - be proactive and active, to bring new situations and problems to the mentor
 - ask a lot of questions to guide you to find the answer you are looking for
 - read everything that was recommended, code everything that is needed, apply advices to test if they work for you
+
+## Open an issue on this repo with the following:
+```
+tell me about yourself
+send me your GitHub
+send me your LinkedIn
+what are your short-term goals?
+what are your long-term goals?
+what are you right now? only backend, only frontend, fullstack?
+what stack do you use today?
+what stack do you wanna learn?
+what is your current company (if any)? do you have space to grow there?
+how can I help you?
+
+send a list of questions that you wanna me to answer/help
+```
