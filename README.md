@@ -12,7 +12,7 @@ After that, the mentee needs to work, read and reflect on ideas and advice, that
 - ask a lot of questions to guide you to find the answer you are looking for
 - read everything that was recommended, code everything that is needed, apply advices to test if they work for you
 
-## Open an issue on this repo with the following:
+## Open an issue on this repo with the following:
 ```
 tell me about yourself
 send me your GitHub
