@@ -1,5 +1,8 @@
 # openmentoring
 
+![cover_social](https://user-images.githubusercontent.com/11979969/162140913-4553c604-1f81-4795-8597-f811766c8791.png)
+
+
 I believe we can mentor people to get their job aborad in tech with a simple pratice of discussing the mentee problems, giving advice and make a retrospective on its carreer, to realize how it can impove until it gets to the next problem.
 
 Lucas Oliveira.
