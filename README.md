@@ -1,6 +1,6 @@
 # openmentoring
 
-ClusterStacks CEO @jucasoliveira believe we can mentor people to get their first job in tech with a simple pratice of discussing the mentee problems, giving advice and make a retrospective on its carreer, to realize how it can impove until it gets to the next problem.
+ClusterStacks CEO @jucasoliveira believe we can mentor people to get their job aborad in tech with a simple pratice of discussing the mentee problems, giving advice and make a retrospective on its carreer, to realize how it can impove until it gets to the next problem.
 
 ## Mentorship Cycle
 The mentee will pass in the 3 steps of the mentorship cycle. The first one is to be in a given situation, or having some problem or doubt.
