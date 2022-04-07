@@ -37,10 +37,7 @@ A clear and concise description.
  - Technology [e.g. javascript, java, rust]
 -  Years of experience
 
-**What is your current company (if any)? do you have space to grow there?**
-
 **What is your current situation? Are you looking to move abroad ? (No sensitive information please)**
-
 
 **How can I help you?**
 
