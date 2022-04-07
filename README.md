@@ -20,16 +20,31 @@ After that, the mentee needs to work, read and reflect on ideas and advice, that
 
 ## Open an issue on this repo with the following:
 ```
-tell me about yourself
-send me your GitHub
-send me your LinkedIn
-what are your short-term goals?
-what are your long-term goals?
-what are you right now? only backend, only frontend, fullstack?
-what stack do you use today?
-what stack do you wanna learn?
-what is your current company (if any)? do you have space to grow there?
-how can I help you?
+**Send me your GitHub**
 
-send a list of questions that you wanna me to answer/help
+
+**Send me your LinkedIn**
+
+
+**What are your short-term goals?**
+A clear and concise description.
+
+**What are your long-term goals?**
+A clear and concise description.
+
+**What are you right now? Position, stack**
+ - Position: [e.g. backend, frontend, fullstack]
+ - Technology [e.g. javascript, java, rust]
+-  Years of experience
+
+**What is your current company (if any)? do you have space to grow there?**
+
+**What is your current situation? Are you looking to move abroad ? (No sensitive information please)**
+
+
+**How can I help you?**
+
+**Send a list of questions that you wanna me to answer/help**
+Add any other context about the problem here.
+
 ```
