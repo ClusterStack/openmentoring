@@ -4,7 +4,7 @@
 
 
 I believe we can mentor people to get their job aborad in tech with a simple pratice of discussing the mentee problems, giving advice and make a retrospective on its carreer, to realize how it can impove until it gets to the next problem.
-When I've created [ClusterStack](https://clustestack.io) the goal is no different. We want to help others to land their jobs abroad and improve their careers, but sometimes you need to reach out someone to understand what you need to improve in other to change and achieve your goals.
+When I've created [ClusterStack](https://clusterstack.io) the goal is no different. We want to help others to land their jobs abroad and improve their careers, but sometimes you need to reach out someone to understand what you need to improve in other to change and achieve your goals.
 
 Lucas Oliveira.
 
