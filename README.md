@@ -2,7 +2,7 @@
 
 ![cover_social](https://user-images.githubusercontent.com/11979969/162140913-4553c604-1f81-4795-8597-f811766c8791.png)
 
-ps.: This strictely `open source` project, and it's prohibited to sell products and services into thir Repo.
+ps.: This is strictely `open source` project, and it's prohibited to sell products and services into thir Repo.
 
 I believe we can mentor people to get their job aborad in tech with a simple pratice of discussing the mentee problems, giving advice and make a retrospective on its carreer, to realize how it can impove until it gets to the next problem.
 When I've created [ClusterStack](https://clusterstack.io) the goal is no different. We want to help others to land their jobs abroad and improve their careers, but sometimes you need to reach out someone to understand what you need to improve in other to change and achieve your goals.
