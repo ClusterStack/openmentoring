@@ -11,8 +11,8 @@ This assessment are part of an pre-assessment interview to see the level of the 
 
 ### Question 1
 
-[![Quesiton1](https://img.youtube.com/vi/pctSxmPKZvM/maxresdefault.jpg)](https://www.youtube.com/embed/pctSxmPKZvM)
+[![Quesiton1](https://img.youtube.com/vi/pctSxmPKZvM/hqdefault.jpg)](https://www.youtube.com/watch?v=pctSxmPKZvM)
 
 ### Question 2
 
-[![Quesiton2](https://img.youtube.com/vi/mxlfBpo-Lg8/maxresdefault.jpg)](https://www.youtube.com/embed/mxlfBpo-Lg8)
+[![Quesiton2](https://img.youtube.com/vi/mxlfBpo-Lg8/hqdefault.jpg)](https://www.youtube.com/watch?v=mxlfBpo-Lg8)
